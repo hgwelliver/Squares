@@ -1,0 +1,25 @@
+<!-- @author Haley Welliver
+strings.xml is a list of strings to be used in the dropdown menu of the spinner
+ -->
+<resources>
+    <string name="app_name">Squares</string>
+
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>""</item>
+    </string-array>
+</resources>
